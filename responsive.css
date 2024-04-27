@@ -535,48 +535,48 @@ input{
   }
   .task-box{
     border-radius: 2px;
-    padding: 4px 10px;
+    padding: 4px 14px;
 }
 
 .title-text{
-  font-size: 12px;
+  font-size: 13px;
   text-transform: uppercase;
 }
   .p-text {
-    font-size: 10px;
+    font-size: 12px;
   }
 /* ==============icons ================ */
   .task-icons {
-    gap: 5px;
+    gap: 10px;
   }
 
   .p-task {
-    gap: 5px;
+    gap: 7px;
   }
   .edit-task {
-    font-size: 10px;
+    font-size: 14px;
   }
   .priority-icon {
-    font-size: 6px !important;
+    font-size: 8px !important;
     border: 1.5px solid rgb(0, 5, 47);
 
   }
   .d-icon{
     cursor: pointer;
     margin-left: 7px;
-    font-size: 11px;   
+    font-size: 13px;   
   }
   .d-icon:hover{
-    font-size: 12px;
+    font-size: 14px;
   }
   .date {
-    font-size: 9px !important;
+    font-size: 10.5px !important;
   }
   .c-icon {
     font-size: 14px;
   }
   .u-icon{
-    font-size: 14px;
+    font-size: 15px;
     margin-left: 7px;
     cursor: pointer;
    }
@@ -584,7 +584,7 @@ input{
     gap: 7px;
   }
   .u-btn{
-   font-size: 11px;
+   font-size: 12px;
   }
   .desc-text{
     font-size: 11px;
@@ -618,7 +618,7 @@ input{
     width: 92%;
   }
   .completed-heading{
-    font-size: 15px;
+    font-size: 16px;
   }
   .sort-section2{
     display: flex;
@@ -630,12 +630,12 @@ input{
   .sort-btn2{
     width: 33%;
     padding: 8px 0px;
-    font-size: 11px;
+    font-size: 13px;
   }
   .sort-btn2:hover{
     background-color: #01032d;
     color: white;
-    font-size: 12px;
+    font-size: 14px;
 }
 .cp-section>p {
   font-size: 14px;
@@ -652,10 +652,10 @@ input{
   gap: 12px;
 }
 .cp-section{
-  gap: 7px;
+  gap: 10px;
 }
 .titleC{
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   text-transform:uppercase ;
 }
@@ -663,23 +663,23 @@ input{
   margin-left: 5px;
 }
 .cp-icon{
-  font-size: 7px;
+  font-size: 8px;
   border: 1.5px solid black;
  
 }
 .dC-icon{
-  font-size: 12px;
+  font-size: 14px;
 }
 .dC-icon:hover{
-  font-size: 13px;
+  font-size: 15px;
 }
 .cp-section>p{
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
 }
 .no-task{
   background-color: #051b1e;
   padding: 10px 0px;
-  font-size: 16px;
+  font-size: 14px;
 }
 }
